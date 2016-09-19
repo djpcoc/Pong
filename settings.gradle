@@ -1,0 +1,2 @@
+include 'core', 'desktop', 'android'
+rootProject.name = 'pong'
